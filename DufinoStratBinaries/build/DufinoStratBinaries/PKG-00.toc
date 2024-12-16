@@ -1,0 +1,86 @@
+('C:\\Users\\DufekLukáš\\OneDrive - Stredná priemyselná škola '
+ 'elektrotechnická\\3.rocnik\\Dufino '
+ 'apky\\DufinoStratBinaries\\build\\DufinoStratBinaries\\DufinoStratBinaries.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\DufekLukáš\\OneDrive - Stredná priemyselná škola '
+   'elektrotechnická\\3.rocnik\\Dufino '
+   'apky\\DufinoStratBinaries\\build\\DufinoStratBinaries\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\DufekLukáš\\OneDrive - Stredná priemyselná škola '
+   'elektrotechnická\\3.rocnik\\Dufino '
+   'apky\\DufinoStratBinaries\\build\\DufinoStratBinaries\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\DufekLukáš\\OneDrive - Stredná priemyselná škola '
+   'elektrotechnická\\3.rocnik\\Dufino '
+   'apky\\DufinoStratBinaries\\build\\DufinoStratBinaries\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\DufekLukáš\\OneDrive - Stredná priemyselná škola '
+   'elektrotechnická\\3.rocnik\\Dufino '
+   'apky\\DufinoStratBinaries\\build\\DufinoStratBinaries\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\DufekLukáš\\OneDrive - Stredná priemyselná škola '
+   'elektrotechnická\\3.rocnik\\Dufino '
+   'apky\\DufinoStratBinaries\\build\\DufinoStratBinaries\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\DufekLukáš\\OneDrive - Stredná priemyselná škola '
+   'elektrotechnická\\3.rocnik\\Dufino '
+   'apky\\DufinoStratBinaries\\build\\DufinoStratBinaries\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\DufekLukáš\\AppData\\Roaming\\Python\\Python39\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('DufinoStratBinaries',
+   'C:\\Users\\DufekLukáš\\OneDrive - Stredná priemyselná škola '
+   'elektrotechnická\\3.rocnik\\Dufino '
+   'apky\\DufinoStratBinaries\\DufinoStratBinaries.py',
+   'PYSOURCE'),
+  ('python39.dll', 'C:\\Program Files\\Python39\\python39.dll', 'BINARY'),
+  ('unicodedata.pyd',
+   'C:\\Program Files\\Python39\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select.pyd', 'C:\\Program Files\\Python39\\DLLs\\select.pyd', 'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Program Files\\Python39\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd', 'C:\\Program Files\\Python39\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_bz2.pyd', 'C:\\Program Files\\Python39\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Program Files\\Python39\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Program Files\\Python39\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Program Files\\Python39\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Program Files\\Python39\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\DufekLukáš\\OneDrive - Stredná priemyselná škola '
+   'elektrotechnická\\3.rocnik\\Dufino '
+   'apky\\DufinoStratBinaries\\build\\DufinoStratBinaries\\base_library.zip',
+   'DATA')],
+ 'python39.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
